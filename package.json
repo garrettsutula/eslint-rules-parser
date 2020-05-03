@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/garrettsutula/eslint-rules-parser#readme",
   "dependencies": {
-    "eslint": "^5.10.0",
+    "eslint": "^6.8.0",
     "esprima": "^4.0.1"
   }
 }
